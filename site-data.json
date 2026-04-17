@@ -9,17 +9,17 @@
   "linkedin_url": "#",
   "copyright_year": "2026",
   "address": "str. Dobrogei, nr.1, Baia Mare, Romania",
+  "phone_link": "+40748878787",
+  "whatsapp_number": "40748878787",
   "brand_name": "Dental Life",
   "logo_path": "img/brand-logo.png",
   "og_image_type": "image/jpeg",
   "og_image_width": "1200",
   "og_image_height": "630",
   "og_image_alt": "Dental Life",
-  "preview_image_path": "img/brand-preview.jpg?v=1776428401",
+  "preview_image_path": "img/brand-preview.jpg?v=1776428495",
   "site_title": "Dental Life | Stomatologie premium in Baia Mare, Romania",
   "site_description": "Dental Life ofera servicii stomatologice moderne in Baia Mare, Romania, cu accent pe confort, grija si rezultate naturale.",
-  "phone_link": "0748878787",
-  "whatsapp_number": "0748878787",
   "map_embed_url": "https://www.google.com/maps?q=str.%20Dobrogei%2C%20nr.1%2C%20Baia%20Mare%2C%20Romania&output=embed",
-  "og_image_url": "https://dental-life.vercel.app/img/brand-preview.jpg?v=1776428401"
+  "og_image_url": "https://dental-life.vercel.app/img/brand-preview.jpg?v=1776428495"
 }
